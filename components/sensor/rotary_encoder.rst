@@ -23,7 +23,7 @@ a better understanding of these sensors.
     :align: center
     :width: 75.0%
 
-To use rotary encoders in ESPHome, first identify the two pins encoding th step value.
+To use rotary encoders in ESPHome, first identify the two pins encoding the step value.
 These are often called ``CLK`` and ``DT`` as in above image. Note if the values this sensor
 outputs go in the wrong direction, you can just swap these two pins.
 
